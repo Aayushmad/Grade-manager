@@ -19,4 +19,4 @@ workflows:
   version: 2
   test-workflow:
     jobs:
-      - test hello 
+      - test 
