@@ -12,4 +12,4 @@ class GradeManager:
         return sum(self.grades) / len(self.grades)
 
     def is_pass(self):
-        return self.get_average() >= 40
+        return self.get_average() >= 60
